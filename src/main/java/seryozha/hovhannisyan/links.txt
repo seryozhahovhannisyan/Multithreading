@@ -1,0 +1,8 @@
+http://www.duct-tape-architect.ru/?p=294
+https://habrahabr.ru/company/luxoft/blog/157273/
+https://habrahabr.ru/company/luxoft/blog/157273/
+https://www.javacodegeeks.com/2015/09/the-java-util-concurrent-package.html
+http://www.vogella.com/tutorials/JavaConcurrency/article.html
+https://dzone.com/articles/jdk-concurrent-package
+https://habrahabr.ru/post/277669/
+http://tutorials.jenkov.com/java-util-concurrent/cyclicbarrier.html
